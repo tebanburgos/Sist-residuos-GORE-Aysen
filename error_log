@@ -1,0 +1,2 @@
+[08-Sep-2014 02:39:11 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bioaqua/public_html/sistema/edit_pdf.php:5) in /home/bioaqua/public_html/sistema/edit_pdf.php on line 6
+[08-Sep-2014 02:41:14 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bioaqua/public_html/sistema/edit_pdf.php:5) in /home/bioaqua/public_html/sistema/edit_pdf.php on line 6
